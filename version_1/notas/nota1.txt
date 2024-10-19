@@ -1,0 +1,19 @@
+Los componentes del modelo MVC
+ 
+El controlador recibe peticiones y decide hacia donde irá para definir que parte del modelo funcionará
+
+El modelo cumple las siguientes funciones: se comunica con el sistema, lase de datos, etc para proporcionar informacion al controlador
+
+La vista: recibe peticiones del controlador para construir lo que el usuario necesite, 
+
+El usuario unicamente enviará peticiones al controlador y el controlador responderá de forma consistente,
+
+Express es lo que efecturá las herramientas para realizar este sistema en el proyecto
+MySQL
+Seguridad -> tokens (datos especiales para identificar personas )
+
+
+la carpeta de node_modules prooporciona los recursos para que nodejs funcione con Express 
+
+request varaible que da la informacion del usuario
+responds la respuesta que se da

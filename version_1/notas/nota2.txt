@@ -1,0 +1,5 @@
+Para hacer la conexion mas rapida se debe aumentar el numero de conexiones que se realizan
+Traduccion ORM
+object relation mapping  es un traducto para objetos a relacional para poder ser utilizables en el codigo 
+revisar siempre la documentacion de las herramientas
+revisar la base de datos del sistema que se vaya a trabajar 
